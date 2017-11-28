@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_.png",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\drawable-mdpi\\ic_.png"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_.png",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-mdpi\\ic_.png"
+    }
+]

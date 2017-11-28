@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blow.ogg",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\raw\\blow.ogg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw\\thrid_nan.mp3",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\raw\\thrid_nan.mp3"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw\\thrid.mp3",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\raw\\thrid.mp3"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw\\blow.ogg",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\raw\\blow.ogg"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw\\thrid_nan.mp3",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\raw\\thrid_nan.mp3"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw\\thrid.mp3",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\raw\\thrid.mp3"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw\\heartv.mp3",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\raw\\heartv.mp3"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw\\heartv.mp3",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\raw\\heartv.mp3"
+    }
+]

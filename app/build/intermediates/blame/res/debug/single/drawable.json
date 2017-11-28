@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok.xml",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\drawable\\ok.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok.xml",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable\\ok.xml"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancle.xml",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\drawable\\cancle.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancle.xml",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable\\cancle.xml"
+    }
+]

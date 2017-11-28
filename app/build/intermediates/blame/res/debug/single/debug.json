@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-xhdpi\\ic_.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_big15.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\big15.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a18.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a18.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xin2.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\xin2.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_pressed.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\cancel_pressed.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_q3.jpg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\q3.jpg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\down1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pressed.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\btn_pressed.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right5.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right5.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_new_iv.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\new_iv.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ll.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\ll.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_big_h.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\big_h.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a11.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a11.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a7.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a7.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a10.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a10.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title.9.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\title.9.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h_m_m.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\h_m_m.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_q2.jpg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\q2.jpg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a8.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a8.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right444.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right444.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw_thrid_nan.mp3.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\raw\\thrid_nan.mp3"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ok.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable\\ok.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xin3.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\xin3.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout_firstview.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\firstview.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_enter.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\anim\\zoom_enter.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_midd_midd_left.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\midd_midd_left.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a17.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a17.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_upmidd.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\upmidd.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_big99.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\big99.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_q1.jpg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\q1.jpg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ok_pressed.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\ok_pressed.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_big1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\big1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right4.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right4.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_leftd.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\leftd.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_second.jpg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\bg_second.jpg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xin4.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\xin4.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left66.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\left66.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a5.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a5.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up3.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\up3.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_q4.jpg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\q4.jpg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a2.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a2.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\bottom.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right7.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right7.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xin1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\xin1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-mdpi\\ic_.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_divide.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\divide.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a12.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a12.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw_blow.ogg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\raw\\blow.ogg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\left1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_beau1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\beau1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_itembackground.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\itembackground.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout_config.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\config.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_allbackground.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\allbackground.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a15.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a15.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hua.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\hua.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout_con_downapk.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\con_downapk.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_pressed.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right2.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right2.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout_thridview.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\thridview.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_normal.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\button_normal.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\up1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right9.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right9.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a4.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a4.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hudei.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\hudei.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a14.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a14.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_q6.jpg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\q6.jpg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ulr1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\ulr1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancle.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable\\cancle.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right_in.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_unpressed.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\btn_unpressed.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_normal.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\cancel_normal.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up0.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\up0.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_midd_midd_right.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\midd_midd_right.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_frame.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\frame.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left3.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\left3.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left_in.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ok_normal.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\ok_normal.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iloveyou_l.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\iloveyou_l.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rightdown1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\rightdown1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_q5.jpg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\q5.jpg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xxing.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\xxing.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right1.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right1.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_downmidd.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\downmidd.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a9.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a9.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_left.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\down_left.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_love_middle_down.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\love_middle_down.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a13.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a13.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw_thrid.mp3.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\raw\\thrid.mp3"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_love.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\love.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_exit.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\anim\\zoom_exit.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mask.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\mask.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-xxhdpi\\ic_.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_right_out.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_right.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\down_right.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_left_out.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a16.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a16.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_right.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\up_right.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stick.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\stick.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\ic_.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up2.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\up2.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qq.jpg.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\qq.jpg"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right3.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right3.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down2.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\down2.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_love_middle_up.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\love_middle_up.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a19.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a19.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bee.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\bee.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout_secondview.xml.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\secondview.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right6.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\right6.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_toolbar_bg.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\common_toolbar_bg.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_left.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\up_left.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_love_m_left.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\love_m_left.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a6.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a6.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a3.png.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\drawable-hdpi\\a3.png"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\raw_heartv.mp3.flat",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\raw\\heartv.mp3"
+    }
+]

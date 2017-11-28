@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thridview.xml",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\layout\\thridview.xml"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\firstview.xml",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\layout\\firstview.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\secondview.xml",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\secondview.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thridview.xml",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\thridview.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\con_downapk.xml",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\con_downapk.xml"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\secondview.xml",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\layout\\secondview.xml"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\config.xml",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\layout\\config.xml"
+    },
+    {
+        "merged": "D:\\project\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\con_downapk.xml",
+        "source": "D:\\project\\i\\app\\src\\main\\res\\layout\\con_downapk.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\firstview.xml",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\firstview.xml"
+    },
+    {
+        "merged": "D:\\Demo\\i\\app\\build\\intermediates\\res\\merged\\debug\\layout\\config.xml",
+        "source": "D:\\Demo\\i\\app\\src\\main\\res\\layout\\config.xml"
+    }
+]

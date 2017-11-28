@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\project\i\app\libs\YoumiSdk_v4.06_2013-11-18.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3afb42de96d6cda485db1ebf6828c49eee80caad">
+        <dex dex="D:\project\i\app\build\intermediates\pre-dexed\debug\YoumiSdk_v4.06_2013-11-18_4acb4409fdb1e00af8d7bb6876d0254d42544188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\i\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\project\i\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_1020fa329f5a5ac20f005ce00f6f6ca202a0d3a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\i\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\project\i\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_4781014d5bc819b60c64c69e6a205e709d928bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\i\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\project\i\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_c83c3cbc8144618c32324d110857cfade1087813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidResource\Sdk\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\project\i\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ab926c1d1971aec1bbf79c61ce8c3dbce42cf882.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\i\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\project\i\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_181e7ae80fe01b283e0dba4eaea8a649d7ffc3b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\i\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\project\i\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_ad1a558025cc9d0e8de895658f9f07cc28fe8bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\project\i\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\project\i\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_9900fc0e21b13a4816a05ca3539606aae0a4500f.jar" />
+    </item>
+
+</items>
